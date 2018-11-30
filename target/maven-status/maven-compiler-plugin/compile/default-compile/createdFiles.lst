@@ -1,0 +1,4 @@
+es/salesianos/repository/Repository.class
+es/salesianos/model/assembler/OwnerAssembler.class
+es/salesianos/service/OwnerService.class
+es/salesianos/servlet/addOwnerServlet.class

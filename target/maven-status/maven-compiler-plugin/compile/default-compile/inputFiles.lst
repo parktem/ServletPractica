@@ -1,0 +1,8 @@
+/home/alahoz/Escritorio/ServletPractica/src/main/java/es/salesianos/connection/ConnectionH2.java
+/home/alahoz/Escritorio/ServletPractica/src/main/java/es/salesianos/model/assembler/OwnerAssembler.java
+/home/alahoz/Escritorio/ServletPractica/src/main/java/es/salesianos/repository/Repository.java
+/home/alahoz/Escritorio/ServletPractica/src/main/java/es/salesianos/model/Pet.java
+/home/alahoz/Escritorio/ServletPractica/src/main/java/es/salesianos/connection/ConnectionManager.java
+/home/alahoz/Escritorio/ServletPractica/src/main/java/es/salesianos/service/OwnerService.java
+/home/alahoz/Escritorio/ServletPractica/src/main/java/es/salesianos/model/Owner.java
+/home/alahoz/Escritorio/ServletPractica/src/main/java/es/salesianos/servlet/addOwnerServlet.java
